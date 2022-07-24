@@ -1,0 +1,11 @@
+.list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 92%;
+    margin: 20px;
+    background-color: whitesmoke;
+}
+.list p{
+    padding: 10px 90px;
+}

@@ -1,0 +1,29 @@
+.et-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 50%;
+    height: 25vh;
+    background-color: white;
+    margin: 30px 0;
+}
+.et-form label{
+    font-weight: bold;
+    margin: 15px 0;
+}
+.et-form input{
+    margin: 10px 0;
+}
+.expenseItem{
+    padding: 20px 30px;
+}
+.amount{
+    padding: 20px 30px;
+}
+.btn{
+    border: none;
+    background-color: blueviolet;
+    padding: 8px 30px;
+    border-radius: 8px;
+}
